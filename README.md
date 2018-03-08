@@ -12,7 +12,7 @@ More third party product handlers (like governments, regulatory bodies, etc) can
 
 Another aspect of the product supply chain tracking using Ethereum based smart contracts is to bring not just tracking details but product stories to the table as well. With such implementations, someone who is sourcing electronics part from China could very well be aware of:
 
-Markup : * How it was manufactured? 
+* How it was manufactured? 
 * Was the labor behind this overworked? 
 * Did it follow through all QA procedures? 
 * How the raw material to manufacture this piece of electronic equipment was sourced? 
