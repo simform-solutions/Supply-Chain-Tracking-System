@@ -6,6 +6,7 @@ Organisations that are a part of this supply chain blockchain system can registe
 This implementation prevents counterfeit product from getting into a supply chain and being represent the exact product or a unit. So, a counterfeit manufacturer won’t be able fake their products as at the brand ones. 
 
 This solution can be used with IoT sensors, QR codes, etc to identify sensors/QR codes of the product packaging that identifies the exact unit of the product, and audit all the life of the product. 
+![alt text](https://github.com/simformsolutions/Supply-Chain-Tracking-System/blob/master/private%20blockchain.png)
 
 More third party product handlers (like governments, regulatory bodies, etc) can be brought in to empower a more transparent and fair global economic system.
 
@@ -16,3 +17,4 @@ Was the labor behind this overworked?
 Did it follow through all QA procedures? 
 How the raw material to manufacture this piece of electronic equipment was sourced? 
 Was it processed the way it should be during the manufacturing process? 
+![alt text](https://github.com/simformsolutions/Supply-Chain-Tracking-System/blob/master/Electronic%20component.png)
